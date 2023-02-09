@@ -15,7 +15,6 @@ public class View extends JFrame{
 	Image image;
 	public View() {
 		super("퍼즐게임");
-		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 		Container cp = getContentPane();
