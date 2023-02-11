@@ -21,7 +21,9 @@ public class View extends JFrame{
 		cp.setLayout(new BorderLayout());
 		
 		JPanel tool_bar = new JPanel(new BorderLayout());
+
 		JPanel tool_pnl = new JPanel(new GridLayout(1,0));
+
 		JButton btn;
 		
 		
