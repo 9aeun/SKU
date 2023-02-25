@@ -26,6 +26,7 @@ public class ProductRepository {
 		Product p9=new Product("D009", "곤약리조또 트러플&버섯", 2480,"곤약과 건강한 곡물을 담아 맛있게 가벼운 한 끼! \n화이트트러플 풍미 가득!", "밥", "동원홈푸드", 100,150,"D009.png" );
 		Product p10=new Product("D010", "저칼로리 바베큐 소스", 2780,"진짜 저칼로리! 100g당 38.5kcal\n 칼로리는 낮게, 바베큐 소스의 맛은 그대로!", "소스", "동원홈푸드", 107.8, 280, "D010.png");
 
+// 상품 추가
 		listOfProducts.add(p1);
 		listOfProducts.add(p2);
 		listOfProducts.add(p3);
