@@ -1,6 +1,6 @@
 package mvc.model;
 
-public class BoardDTO {
+public class BoardDTO { //계층 간 데이터 교환을 위한 class
 	private int num;
 	private String id;
 	private String name;
