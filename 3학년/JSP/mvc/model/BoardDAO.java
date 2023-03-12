@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 import mvc.database.DBConnection;
 
-public class BoardDAO { //게시판 데이터베이스에 접근하기 위한 class
+public class BoardDAO { //게시판 데이터베이스에 접근하기 위한 class.
    private static BoardDAO instance;
    
    private BoardDAO() {      
