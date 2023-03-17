@@ -32,7 +32,7 @@
 			session.setAttribute("cartlist", list);
 		}
 		
-		int cnt = 0; //물건 개수
+		int cnt = 0;
 		Product goodsQnt = new Product();
 		for(int i=0; i<list.size(); i++){
 			goodsQnt = list.get(i);
