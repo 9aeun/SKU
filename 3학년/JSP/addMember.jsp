@@ -26,7 +26,7 @@
 
 	}
 	
-	function inputIdChk(){ //아이디 확인 함수
+	function inputIdChk(){ 
 		var id=document.newMember.id.value;
 		if(id.length==0 || id==""){
 			alert("아이디를 입력해주세요.");
