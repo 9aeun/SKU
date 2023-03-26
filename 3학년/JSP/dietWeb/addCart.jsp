@@ -10,7 +10,7 @@
 			return;
 		}
 		
-		ProductRepository dao = ProductRepository.getInstance();
+		ProductRepository dao = ProductRepository.getInstance(); //.
 		
 		Product product = dao.getProductById(id);
 		if(product==null){
