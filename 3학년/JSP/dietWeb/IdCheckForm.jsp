@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script type="text/javascript">
+<script type="text/javascript">   
 	var httpRequest = null;
 	
 	function getXMLHttpRequest(){ 
