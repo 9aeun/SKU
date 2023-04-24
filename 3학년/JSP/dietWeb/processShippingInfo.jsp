@@ -29,6 +29,5 @@
 	response.addCookie(address);
 	response.addCookie(detailAddress);
 	response.addCookie(reference);
-	
 	response.sendRedirect("orderConfirmation.jsp");
 %>
