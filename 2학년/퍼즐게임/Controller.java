@@ -1,6 +1,7 @@
 package Final;
 
-public class Controller { //게임 control
+public class Controller { 
+
 	Model model = new Model();
 	View view = new View();
 
