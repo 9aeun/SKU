@@ -33,6 +33,7 @@
 				ResultSet rs = null;
 	
 				String sql = "select * from product where p_id = ?";
+
 				pstmt = conn.prepareStatement(sql);
 				pstmt.setString(1, productId);
 				rs = pstmt.executeQuery();
