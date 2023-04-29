@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=utf-8"%>
 <%@ page import = "java.sql.*" %>
 <html>
-<head>
+<head>  
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 <link rel="stylesheet" href="./resources/css/bootstrap.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
