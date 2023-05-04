@@ -12,7 +12,7 @@
 			try{
 				httpRequest = new ActiveXObject("Msxmk2.XMLHTTP");
 			}catch(e){
-				try{
+				try{  
 					httpRequest = new ActiveXObject("Microsoft.XMLHTTP")
 				}catch(e2){httpRequest=null}
 			}
