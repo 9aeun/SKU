@@ -13,7 +13,7 @@ public:
 		color = c;
 		cout << "Figure::Figure()" << endl;
 	}
-	virtual ~Figure() {	
+	virtual ~Figure() {	 //not figure
 		cout << "Figure::~Figure()\n";
 	}
 };
