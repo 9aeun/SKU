@@ -3,7 +3,7 @@
 using namespace std;
 
 class Figure {	//move와 draw 때문에 virtual attribute임
-private:	//member변수 private으로 선언함
+private:	//member변수 private으로 선언함.
 	int color;
 public:
 	void setColor(int c) { color = c; }
