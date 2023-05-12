@@ -7,6 +7,7 @@
 	var httpRequest = null;            
 	
 	function getXMLHttpRequest(){ 
+
 		var httpRequest = null;
 		
 		if(window.ActiveXObject){
