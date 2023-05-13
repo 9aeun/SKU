@@ -25,6 +25,7 @@
 				while ( rs.next()) {
 					if(rs.getString("p_category").equals("소스")){
 			%>
+
 			<div class = "col-md-4">
 				<img src="./images/<%=rs.getString("p_fileName")%>"style ="width:100%">
 				<h4><%= rs.getString("p_name")%></h4>
