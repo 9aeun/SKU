@@ -4,6 +4,7 @@
 <%
 	String sessionId = (String) session.getAttribute("sessionId");
 %>
+
 <sql:setDataSource var="dataSource"
 	url="jdbc:mysql://localhost:3306/FinalPJTDB"
 	driver="com.mysql.jdbc.Driver" user="root" password="1234" />
