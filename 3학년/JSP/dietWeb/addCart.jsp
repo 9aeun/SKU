@@ -15,7 +15,7 @@
 		Product product = dao.getProductById(id);
 		if(product==null){
 			response.sendRedirect("exceptionNoProductId.jsp");
-		}
+		}    
 		
 		ArrayList<Product> goodsList = dao.getAllProducts();
 		Product goods = new Product();
