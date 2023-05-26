@@ -2,7 +2,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ page import="java.util.*"%>
 <%@ page import="mvc.model.BoardDTO"%>
-<%
+<%   
 	String sessionId = (String) session.getAttribute("sessionId");
 	List boardList = (List) request.getAttribute("boardlist");
 	int total_record = ((Integer) request.getAttribute("total_record")).intValue();
