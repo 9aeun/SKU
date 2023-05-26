@@ -7,7 +7,7 @@
 	List boardList = (List) request.getAttribute("boardlist");
 	int total_record = ((Integer) request.getAttribute("total_record")).intValue();
 	int pageNum = ((Integer) request.getAttribute("pageNum")).intValue();
-	int total_page = ((Integer) request.getAttribute("total_page")).intValue();
+	int total_page = ((Integer) request.getAttribute("total_page")).intValue();    
 %>
 <html>
 <head>
