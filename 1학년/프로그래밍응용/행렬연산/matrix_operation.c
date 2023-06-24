@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include "matrix_operation.h"
-
+  
 int main(void)
 {
 	int A[L][M] = { 0 }, B[M][N] = { 0 }, AB[L][N] = { 0 }; //행렬 A, 행렬 B, 행렬A와 행렬B의 곱 행렬AB 선언
