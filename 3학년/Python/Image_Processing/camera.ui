@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>CameraWindow</class>
+ <widget class="QMainWindow" name="CameraWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>918</width>
+    <height>726</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="horizontalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>630</y>
+      <width>651</width>
+      <height>80</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QPushButton" name="originButton">
+       <property name="styleSheet">
+        <string notr="true">font: 75 12pt &quot;Century Gothic&quot;;</string>
+       </property>
+       <property name="text">
+        <string>카메라 열기</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="LRsyButton">
+       <property name="styleSheet">
+        <string notr="true">font: 75 12pt &quot;Century Gothic&quot;;</string>
+       </property>
+       <property name="text">
+        <string>좌우대칭</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="UDsyButton">
+       <property name="styleSheet">
+        <string notr="true">font: 75 12pt &quot;Century Gothic&quot;;</string>
+       </property>
+       <property name="text">
+        <string>상하대칭</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="waveButton">
+       <property name="styleSheet">
+        <string notr="true">font: 75 12pt &quot;Century Gothic&quot;;</string>
+       </property>
+       <property name="text">
+        <string>물결</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="bolButton">
+       <property name="styleSheet">
+        <string notr="true">font: 75 12pt &quot;Century Gothic&quot;;</string>
+       </property>
+       <property name="text">
+        <string>볼록렌즈</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="oButton">
+       <property name="styleSheet">
+        <string notr="true">font: 75 12pt &quot;Century Gothic&quot;;</string>
+       </property>
+       <property name="text">
+        <string>오목렌즈</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QPushButton" name="filmButton">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>550</y>
+      <width>75</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image:url(&quot;C:/Users/rkdms/김가은_영상처리/기말/button.png&quot;);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>40</y>
+      <width>711</width>
+      <height>441</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="homeButton">
+    <property name="geometry">
+     <rect>
+      <x>860</x>
+      <y>10</y>
+      <width>51</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image:url(&quot;C:/Users/rkdms/김가은_영상처리/기말/home.png&quot;);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>918</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
