@@ -3,7 +3,7 @@ import cv2
 import threading
 import numpy as np
 import qimage2ndarray
-# import pyautogui
+import pyautogui
 from PyQt5.QtWidgets import *
 from PyQt5 import uic
 from PyQt5 import QtWidgets
