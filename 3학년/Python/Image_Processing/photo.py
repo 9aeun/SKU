@@ -4,8 +4,8 @@ import threading
 import qimage2ndarray
 import numpy as np
 from PyQt5.QtWidgets import *
-from PyQt5.QtGui import *   # 사진 불러오기
-import urllib.request       # 사진 불러오기
+from PyQt5.QtGui import *   
+import urllib.request       
 from PyQt5 import uic
 from PyQt5 import QtWidgets
 from PyQt5 import QtGui
