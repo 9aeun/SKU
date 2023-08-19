@@ -33,7 +33,7 @@
 			action="BoardUpdateAction.do?num=<%=notice.getNum()%>&pageNum=<%=nowpage%>"
 			class="form-horizontal" method="post">
 			<div class="form-group row">
-				<label class="col-sm-2 control-label" >성명</label>
+				<label class="col-sm-2 control-label" >이름</label>
 				<div class="col-sm-3">
 					<input name="name" class="form-control"	value=" <%=notice.getName()%>">
 				</div>
