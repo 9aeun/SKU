@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BookCatalog>
+    <Book>
+        <Title> 흥미있는 XML </Title>
+        <Author> 작가미상 </Author>
+        <Year> 2022 </Year>
+    </Book>
+    <Book>
+        <Title>개미</Title>
+        <Author>베르나르베르베르</Author>
+        <Year>2012</Year>
+    </Book>
+</BookCatalog>
