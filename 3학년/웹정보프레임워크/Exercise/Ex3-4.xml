@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE BookCatalog SYSTEM "BookCatalog.dtd">
+<BookCatalog>
+    	<Book>
+        	<BookCode>B1234</BookCode>
+        	<CoAuthor>
+			주저자: <Author> 베르나르베르베르 </Author>
+			공저자: <Author> 김가은 </Author>
+		</CoAuthor>
+        	<Year>1991</Year>
+		<Summary>지성수준이 인간과 비슷한 개미가 주인공인 책</Summary>
+    	</Book>
+    	<Book>
+        	<Title>나미야 잡화점의 기적</Title>
+        	<CoAuthor>
+			주저자: <Author> 히가시노게이고 </Author>
+		</CoAuthor>
+        	<Year>2012</Year>
+		<Summary>
+			초판본: <Year> 2012 </Year>
+		</Summary>
+    	</Book>
+    	<Book>
+        	<Title>나는 너를 본다</Title>
+        	<CoAuthor>
+			주저자: <Author> 클레어맥킨토시 </Author>
+		</CoAuthor>
+        	<Year>2017</Year>
+		<Summary>마지막에 반전을 둔 스릴러 소설</Summary>
+    	</Book>
+</BookCatalog>
