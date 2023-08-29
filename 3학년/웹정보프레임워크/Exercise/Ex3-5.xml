@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE BookCatalog [
+	<!ELEMENT BookCatalog (Book*)>
+	<!ELEMENT Book (Title, Author, Year)>
+	<!ELEMENT Title (#PCDATA)>
+	<!ELEMENT Author (#PCDATA)>
+	<!ELEMENT Year (#PCDATA)>
+	<!ATTLIST Book lang CDATA "Korean">
+]>
+<BookCatalog>
+    <Book lang="English">
+        <Title>개미</Title>
+        <Author>베르나르베르베르</Author>
+        <Year>1991</Year>
+    </Book>
+</BookCatalog>
