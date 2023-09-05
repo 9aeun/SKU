@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<BookCatalog xmlns="http://cs.skuniv.ac.kr/xml/gaeun"
+	  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xsi:schemaLocation="http://cs.skuniv.ac.kr/xml/gaeun Ex4-4.xsd">
+
+    <Book>
+        <Title> 나미야 잡화점의 기적 </Title>
+        <Author> 히가시노게이고 </Author>
+        <Year> 2012 </Year>
+    </Book>
+    <Book>
+        <Title>개미</Title>
+        <Author>베르나르베르베르</Author>
+        <Year>2012</Year>
+    </Book>
+    <Book>
+        <Title>파친코</Title>
+        <Author>이민진</Author>
+        <Year>2017</Year>
+    </Book>
+</BookCatalog>
+				
