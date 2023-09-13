@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+		targetNamespace="http://cs.skuniv.ac.kr/xml/gaeun"
+		xmlns:target="http://cs.skuniv.ac.kr/xml/gaeun"
+		elementFormDefault="qualified">
+	<group name = "BookContent">
+		<sequence>
+			<element name="Title" type="string" />
+			<element name="Author" type="string" />
+			<element name="Year" type="string" />
+		</sequence>	
+	</group>
+
+	<complexType name="BookType">
+		<group ref="target:BookContent" />
+	</complexType>
+
+	<element name="Book" type="target:BookType" />
+
+	<element name="BookCatalog">
+		<complexType>
+			<sequence>
+				<element ref="target:Book" maxOccurs="unbounded"/>
+			</sequence>
+		</complexType>
+	</element>
+
+</schema>
