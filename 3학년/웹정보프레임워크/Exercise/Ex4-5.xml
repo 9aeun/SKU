@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AudioCatalog xmlns="http://cs.skuniv.ac.kr/xml/gaeun"
+	  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xsi:schemaLocation="http://cs.skuniv.ac.kr/xml/gaeun Ex4-5.xsd">
+
+    <Cd>
+        <Title> Attention </Title>
+	<Artist> New Jeans </Artist>
+	<Genre> Dance </Genre>
+	<Released-date> 2022-08-01 </Released-date>
+	<Song> Hype boy </Song>
+	<Song> Cookie </Song>
+	<Song> Hurt </Song>
+    </Cd>
+
+    <Record>
+        <Title> Attention </Title>
+	<Artist> New Jeans </Artist>
+	<Genre> Dance </Genre>
+	<Released-date> 2022-08-01 </Released-date>
+	<Song> Hype boy </Song>
+	<Song> Cookie </Song>
+	<Song> Hurt </Song>
+    </Record>
+
+    <MP3>
+        <Title> Attention </Title>
+	<Artist> New Jeans </Artist>
+	<Genre> Dance </Genre>
+	<Released-date> 2022-08-01 </Released-date>
+	<Song> Hype boy </Song>
+	<Song> Cookie </Song>
+	<Song> Hurt </Song>
+    </MP3>
+</AudioCatalog>
+				
