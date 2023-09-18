@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AudioCatalog xmlns="http://cs.skuniv.ac.kr/xml/gaeun"
+	  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xsi:schemaLocation="http://cs.skuniv.ac.kr/xml/gaeun Ex4-7.xsd">
+
+    <Cd>
+        <Title> Attention </Title>
+	<Artist> New Jeans </Artist>
+	<Genre> Dance </Genre>
+	<Released-date> 2022-08-01 </Released-date>
+	<Song> Hype boy </Song>
+		<PlayTime>
+			<hours> 0 </hours>
+			<minutes> 2 </minutes>
+			<seconds> 57 </seconds>
+		</PlayTime>
+	<Song> Cookie </Song>
+		<PlayTime>
+			<hours> 0 </hours>
+			<minutes> 3 </minutes>
+			<seconds> 53 </seconds>
+		</PlayTime>
+	<Song> Hurt </Song>
+		<PlayTime>
+			<hours> 0 </hours>
+			<minutes> 2 </minutes>
+			<seconds> 55 </seconds>
+		</PlayTime>
+    </Cd>
+
+    <Record>
+        <Title> Attention </Title>
+	<Artist> New Jeans </Artist>
+	<Genre> Dance </Genre>
+	<Released-date> 2022-08-01 </Released-date>
+	<Song> Hype boy </Song>
+		<PlayTime>
+			<hours> 0 </hours>
+			<minutes> 2 </minutes>
+			<seconds> 57 </seconds>
+		</PlayTime>
+	<Song> Cookie </Song>
+		<PlayTime>
+			<hours> 0 </hours>
+			<minutes> 3 </minutes>
+			<seconds> 53 </seconds>
+		</PlayTime>
+	<Song> Hurt </Song>
+		<PlayTime>
+			<hours> 0 </hours>
+			<minutes> 2 </minutes>
+			<seconds> 55 </seconds>
+		</PlayTime>
+    </Record>
+
+    <MP3>
+        <Title> Attention </Title>
+	<Artist> New Jeans </Artist>
+	<Genre> Dance </Genre>
+	<Released-date> 2022-08-01 </Released-date>
+	<Song> Hype boy </Song>
+		<PlayTime>
+			<hours> 0 </hours>
+			<minutes> 2 </minutes>
+			<seconds> 57 </seconds>
+		</PlayTime>
+	<Song> Cookie </Song>
+		<PlayTime>
+			<hours> 0 </hours>
+			<minutes> 3 </minutes>
+			<seconds> 53 </seconds>
+		</PlayTime>
+	<Song> Hurt </Song>
+		<PlayTime>
+			<hours> 0 </hours>
+			<minutes> 2 </minutes>
+			<seconds> 55 </seconds>
+		</PlayTime>
+    </MP3>
+</AudioCatalog>
+				
