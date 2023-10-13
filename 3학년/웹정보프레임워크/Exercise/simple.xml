@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<?xml:stylesheet type="text/xsl" href="C:/xmlWorks/simple.xsl"?>
+<simple>
+	<name> John </name>
+	<name> David </name>
+	<name> Mark </name>
+	<name> Kim </name>
+	<name> Agatha </name>
+	<name> Park </name>
+</simple>
